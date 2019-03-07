@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1551924322,,"x"
+|2,0,1551925056,,"x"
 :q!
 |2,0,1551321706,,"q!"
 :q
@@ -35,36 +35,72 @@
 |3,1,0,0,2,0,1551321458,"Oliver’s: Elio... Elio... Elio.",""
 
 # File marks:
-'0  3  0  ~/birthday.txt
-|4,48,3,0,1551924322,"~/birthday.txt"
-'1  1  22  ~/.git/COMMIT_EDITMSG
-|4,49,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
-'2  8  6  ~/jazz.txt
-|4,50,8,6,1551922358,"~/jazz.txt"
-'3  4  47  ~/.git/COMMIT_EDITMSG
-|4,51,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
-'4  4  47  ~/.git/COMMIT_EDITMSG
-|4,52,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
-'5  3  15  ~/jazz.txt
-|4,53,3,15,1551920455,"~/jazz.txt"
-'6  3  15  ~/jazz.txt
-|4,54,3,15,1551920455,"~/jazz.txt"
-'7  2389  0  ~/call-me-by-your-name.txt
-|4,55,2389,0,1551321706,"~/call-me-by-your-name.txt"
-'8  3183  0  ~/call-me-by-your-name.txt
-|4,56,3183,0,1551321364,"~/call-me-by-your-name.txt"
-'9  3182  0  ~/call-me-by-your-name.txt
-|4,57,3182,0,1551321364,"~/call-me-by-your-name.txt"
+'0  5  0  ~/bday.txt
+|4,48,5,0,1551925056,"~/bday.txt"
+'1  3  0  ~/.git/COMMIT_EDITMSG
+|4,49,3,0,1551924403,"~/.git/COMMIT_EDITMSG"
+'2  3  0  ~/birthday.txt
+|4,50,3,0,1551924322,"~/birthday.txt"
+'3  1  22  ~/.git/COMMIT_EDITMSG
+|4,51,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
+'4  1  22  ~/.git/COMMIT_EDITMSG
+|4,52,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
+'5  8  6  ~/jazz.txt
+|4,53,8,6,1551922358,"~/jazz.txt"
+'6  6  47  ~/.git/COMMIT_EDITMSG
+|4,54,6,47,1551922189,"~/.git/COMMIT_EDITMSG"
+'7  6  47  ~/.git/COMMIT_EDITMSG
+|4,55,6,47,1551922189,"~/.git/COMMIT_EDITMSG"
+'8  4  47  ~/.git/COMMIT_EDITMSG
+|4,56,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
+'9  4  47  ~/.git/COMMIT_EDITMSG
+|4,57,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  5  0  ~/bday.txt
+|4,39,5,0,1551925056,"~/bday.txt"
+-'  1  0  ~/bday.txt
+|4,39,1,0,1551924995,"~/bday.txt"
+-'  3  0  ~/.git/COMMIT_EDITMSG
+|4,39,3,0,1551924403,"~/.git/COMMIT_EDITMSG"
+-'  3  0  ~/.git/COMMIT_EDITMSG
+|4,39,3,0,1551924403,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1551924376,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1551924376,"~/.git/COMMIT_EDITMSG"
 -'  3  0  ~/birthday.txt
 |4,39,3,0,1551924322,"~/birthday.txt"
+-'  3  0  ~/birthday.txt
+|4,39,3,0,1551924322,"~/birthday.txt"
+-'  3  0  ~/birthday.txt
+|4,39,3,0,1551924322,"~/birthday.txt"
+-'  3  0  ~/birthday.txt
+|4,39,3,0,1551924322,"~/birthday.txt"
+-'  1  0  ~/birthday.txt
+|4,39,1,0,1551924308,"~/birthday.txt"
+-'  1  0  ~/birthday.txt
+|4,39,1,0,1551924308,"~/birthday.txt"
+-'  1  0  ~/birthday.txt
+|4,39,1,0,1551924308,"~/birthday.txt"
 -'  1  0  ~/birthday.txt
 |4,39,1,0,1551924308,"~/birthday.txt"
 -'  1  22  ~/.git/COMMIT_EDITMSG
 |4,39,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
 -'  1  22  ~/.git/COMMIT_EDITMSG
 |4,39,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
+-'  1  22  ~/.git/COMMIT_EDITMSG
+|4,39,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
+-'  1  22  ~/.git/COMMIT_EDITMSG
+|4,39,1,22,1551922555,"~/.git/COMMIT_EDITMSG"
+-'  6  17  ~/.git/COMMIT_EDITMSG
+|4,39,6,17,1551922524,"~/.git/COMMIT_EDITMSG"
+-'  4  17  ~/.git/COMMIT_EDITMSG
+|4,39,4,17,1551922524,"~/.git/COMMIT_EDITMSG"
+-'  4  17  ~/.git/COMMIT_EDITMSG
+|4,39,4,17,1551922524,"~/.git/COMMIT_EDITMSG"
+-'  6  17  ~/.git/COMMIT_EDITMSG
+|4,39,6,17,1551922524,"~/.git/COMMIT_EDITMSG"
 -'  4  17  ~/.git/COMMIT_EDITMSG
 |4,39,4,17,1551922524,"~/.git/COMMIT_EDITMSG"
 -'  4  17  ~/.git/COMMIT_EDITMSG
@@ -77,6 +113,54 @@
 |4,39,8,6,1551922358,"~/jazz.txt"
 -'  8  6  ~/jazz.txt
 |4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  8  6  ~/jazz.txt
+|4,39,8,6,1551922358,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551922304,"~/jazz.txt"
 -'  3  15  ~/jazz.txt
 |4,39,3,15,1551922304,"~/jazz.txt"
 -'  3  15  ~/jazz.txt
@@ -93,6 +177,22 @@
 |4,39,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
 -'  4  47  ~/.git/COMMIT_EDITMSG
 |4,39,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
+-'  4  47  ~/.git/COMMIT_EDITMSG
+|4,39,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
+-'  4  47  ~/.git/COMMIT_EDITMSG
+|4,39,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
+-'  4  47  ~/.git/COMMIT_EDITMSG
+|4,39,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
+-'  4  47  ~/.git/COMMIT_EDITMSG
+|4,39,4,47,1551922189,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1551921218,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1551921218,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1551921218,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1551921218,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1551921218,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -117,148 +217,65 @@
 |4,39,3,15,1551920455,"~/jazz.txt"
 -'  3  15  ~/jazz.txt
 |4,39,3,15,1551920455,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  1  0  ~/jazz.txt
-|4,39,1,0,1551920325,"~/jazz.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  2389  0  ~/call-me-by-your-name.txt
-|4,39,2389,0,1551321706,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
--'  3183  0  ~/call-me-by-your-name.txt
-|4,39,3183,0,1551321367,"~/call-me-by-your-name.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
+-'  3  15  ~/jazz.txt
+|4,39,3,15,1551920455,"~/jazz.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/bday.txt
+	*	1551925053	0
+	"	5	0
+	^	5	0
+	.	4	25
+	+	4	25
+
+> ~/.git/COMMIT_EDITMSG
+	*	1551924402	0
+	"	3	0
+	^	3	0
+	.	2	0
+	+	7	0
+	+	1	1
+	+	4	0
+	+	2	0
 
 > ~/birthday.txt
 	*	1551924320	0
@@ -266,14 +283,6 @@
 	^	3	0
 	.	2	12
 	+	2	12
-
-> ~/.git/COMMIT_EDITMSG
-	*	1551922552	0
-	"	1	22
-	^	1	23
-	.	1	22
-	+	5	0
-	+	1	22
 
 > ~/jazz.txt
 	*	1551922356	0
